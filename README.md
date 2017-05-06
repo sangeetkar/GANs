@@ -13,3 +13,9 @@ In this repository, I'll be sharing some of my quick experiments with various GA
 
 I'll use the [Pytorch Library](http://pytorch.org/) in this project. Although I like [Tensorflow](https://www.tensorflow.org/), I'm increasingly getting more inclined towards pytorch because it's quite similar to python libraries like [Numpy](http://www.numpy.org/) and debugging is a lot easier than Tensorflow.
 
+
+Here are the links to my quick experiments with GANs so far:
+
+ - [** GANs ** to generate handwritten digits](./mnist_GAN.ipynb)
+ - [** DCGANs ** to generate novel faces](./DCGAN_faces.ipynb)
+
