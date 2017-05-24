@@ -16,6 +16,6 @@ I'll use the [Pytorch Library](http://pytorch.org/) in this project. Although I 
 
 Here are the links to my quick experiments with GANs so far:
 
- - [** GANs ** to generate handwritten digits](./mnist_GAN.ipynb)
- - [** DCGANs ** to generate novel faces](./DCGAN_faces.ipynb)
+ - [ **GANs** to generate handwritten digits](./mnist_GAN.ipynb)
+ - [ **DCGANs** to generate novel faces](./DCGAN_faces.ipynb)
 
